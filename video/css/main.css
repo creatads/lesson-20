@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin:0;
+	padding: 0;
+}
+.section {
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+	display: table;
+	font-family: sans-serif;
+}
+.wrap-block {
+	display: table-cell;
+	vertical-align:middle;
+	color:#FFFFFF;
+}
